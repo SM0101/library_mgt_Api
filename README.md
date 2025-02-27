@@ -1,4 +1,6 @@
-Library Management System API
+**Library Management System API**
+
+
 This is a .NET Core 6.0 web API project for a Library Management System with full features to help both Librarians and readers, such as storing books, keeping track of readers, and lending books to readers.
 
 Features
